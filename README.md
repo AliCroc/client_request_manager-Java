@@ -2,7 +2,7 @@
 # SPRAWOZDANIE Z TWORZENIA ZADANIA NR 2
 ## Przedmiot: Programowanie Obiektowe
 ## Prowadzący: dr Marcin Gawilek
-## Wykonał: Artur Ajchsztet, nr albumu: 143040
+## Wykonał: Artur Ajchsztet, nr albumu: -----
 
 ---
 
